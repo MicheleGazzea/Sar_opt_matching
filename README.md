@@ -7,15 +7,14 @@ Therefore, combining the two sensors has the potential to increase the informati
 Image matching is the process of aligning two or more images. 
 The SAR-optical matching is especially problematic due to the significant radiometric and geometric differences and the visual disparities introduced by different remote sensing sensors.
 
-![img](imgs/SARoptMatch_3.png)
+![img](imgs/SARoptMatch_2.png)
 
 ### Goal: 
 
 We propose and develop an end-to-end machine learning pipeline for automatic sar-optical matching.  
 
-Paper can be found at: https://ieeexplore.ieee.org/abstract/document/10129005
+The relative paper can be found at: https://ieeexplore.ieee.org/abstract/document/10129005
 
-![img](imgs/pipeline_v3.png)
 
 
 ### Dataset:
@@ -24,6 +23,12 @@ We used the [SEN1-2](https://arxiv.org/abs/1807.01569) open dataset consisting o
 282,384 co-registered SAR-optical image patches, including all four seasons and environments (e.g., urban, rural, deserts, mountains, etc.). 
 
 ![img](imgs/sar-opt_examples.png)
+
+
+
+### Tutorial notebook:
+
+The `main_example.ipynb` Jupyter notebook provides a clean example of how to create, load and use the model for SAR-optical matching. 
 
 
 
