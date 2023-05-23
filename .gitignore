@@ -1,0 +1,8 @@
+arch_plots
+old_code
+visual_maps
+weights
+
+template_matching_example.py
+vanilla_NCC.py
+template_utils.py
