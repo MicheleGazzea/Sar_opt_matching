@@ -28,7 +28,7 @@ We used the [SEN1-2](https://arxiv.org/abs/1807.01569) open dataset consisting o
 
 ### Tutorial notebook:
 
-The `main_example.ipynb` Jupyter notebook provides a clean example of how to create, load and use the model for SAR-optical matching. 
+The [main_example.ipynb](main_example.ipynb) Jupyter notebook provides a clean example of how to create, load and use the model for SAR-optical matching. 
 
 
 
